@@ -1,4 +1,4 @@
-# Hi, I'm Inti 👋
+# Hi, I'm Inti
 
 Full Stack Developer based in Latin America, working remotely for a Spanish company (European timezone).
 
